@@ -17,7 +17,7 @@ const Towers = () => {
 
   return (
     <div className="lg:w-5/6 mx-auto p-10 lg:my-20 bg-white rounded-3xl shadow-md shadow-gray-200">
-      <h1 className="text-xl font-black text-center mb-10">
+      <h1 className="text-2xl font-black text-center mb-10">
         Vision Towers
       </h1>
       <div className="grid grid-cols-1 md:grid-cols-3 gap-10 cursor-pointer">

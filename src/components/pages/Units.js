@@ -46,7 +46,7 @@ const Units = () => {
 
   return (
     <div className="bg-gray-100 min-h-screen py-8 px-2 md:px-8">
-      <p className="font-bold text-2xl my-5 text-center">Unit</p>
+      <p className="font-bold text-xl my-5 text-center">Unit</p>
       <div className=" w-11/12 mx-auto">
         <button
           className="flex gap-2 items-center w-fit mb-5 rounded-xl px-4 py-2 bg-black text-white"
