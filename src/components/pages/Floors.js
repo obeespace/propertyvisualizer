@@ -23,7 +23,7 @@ const Floors = () => {
   }
 
   return (
-    <div>
+    <div className="min-h-screen py-8 px-2 md:px-8">
       <h1 className="text-xl font-bold text-center my-5">
         Floors - {selectedTower.name}
       </h1>
