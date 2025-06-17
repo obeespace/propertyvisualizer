@@ -24,7 +24,7 @@ const Floors = () => {
 
   return (
     <div>
-      <h1 className="text-xl font-bold text-center my-10">
+      <h1 className="text-xl font-bold text-center my-5">
         Floors - {selectedTower.name}
       </h1>
       <div className=" w-5/6 mx-auto">
