@@ -19,6 +19,7 @@ const FloorUnitCard = ({floorNumber, totalUnits, availableUnits, floorCategory, 
             src={getFloorImage(floorCategory)}
             alt={`Floor ${floorNumber}`}
             className="w-full h-40 object-cover"
+            loading="lazy"
           />
           <div className="p-5 bg-white">
             <div className="flex justify-between items-center">

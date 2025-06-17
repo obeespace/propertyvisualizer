@@ -11,6 +11,7 @@ const TowerUnitCard = ({towerName, towerImage, onClick}) => {
               src={towerImage}
               alt={towerName}
               className="h-5/6 rounded-2xl object-contain"
+              loading="lazy"
             />
           </div>
           <div className="flex justify-center absolute bottom-3 w-full left-0">

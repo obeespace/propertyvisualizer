@@ -56,11 +56,11 @@ const Units = () => {
         <div className="h-72 mb-8">
           <img
             src={
-              
+              selectedUnit.image ||
               "https://img.freepik.com/free-photo/modern-minimalist-living-dining-space-with-natural-light_23-2151983233.jpg?uid=R27017460&ga=GA1.1.1750306668.1745505589&semt=ais_hybrid&w=740"
             }
             alt="main"
-            className="row-span-2 col-span-2 w-full h-full object-cover rounded-2xl"
+            className="row-span-2 col-span-2 w-full h-full object-cover rounded-xl"
           />
           
         </div>
@@ -160,7 +160,7 @@ const Units = () => {
                   </select>
                 </div>
               </form>
-              <button className="w-full bg-pink-600 text-white py-2 rounded-lg font-semibold hover:bg-pink-700 transition">
+              <button className="w-full bg-black text-white py-2 rounded-lg font-semibold hover:bg-pink-700 transition">
                 Reserve
               </button>
               <div className="text-xs text-gray-500 mt-2 text-center">
