@@ -1,0 +1,1106 @@
+
+{
+  "towers": [
+    {
+      "id": "tower-a",
+      "name": "Tower A",
+      "image": "../images/tower1_RegalRetreat.jpg",
+      "floors": [
+        {
+          "floorNumber": 1,
+          "category": "Standard",
+          "layouts": [
+            {
+              "id": "t1-101",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t1-101",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t1-101",
+              "area": "106 sqm",
+              "unitType": "2BHK",
+              "rooms": 3,
+              "category": "Standard",
+              "price": 200000
+            },
+            {
+              "id": "t1-102",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t1-102",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t1-102",
+              "area": "111 sqm",
+              "unitType": "3BHK",
+              "rooms": 4,
+              "category": "Standard",
+              "price": 240000
+            },
+            {
+              "id": "t1-103",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t1-103",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t1-103",
+              "area": "116 sqm",
+              "unitType": "1BHK",
+              "rooms": 2,
+              "category": "Standard",
+              "price": 300000
+            }
+          ]
+        },
+        {
+          "floorNumber": 2,
+          "category": "Standard",
+          "layouts": [
+            {
+              "id": "t2-201",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t2-201",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t2-201",
+              "area": "107 sqm",
+              "unitType": "2BHK",
+              "rooms": 3,
+              "category": "Standard",
+              "price": 200000
+            },
+            {
+              "id": "t2-202",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t2-202",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t2-202",
+              "area": "112 sqm",
+              "unitType": "3BHK",
+              "rooms": 4,
+              "category": "Standard",
+              "price": 240000
+            },
+            {
+              "id": "t2-203",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t2-203",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t2-203",
+              "area": "117 sqm",
+              "unitType": "1BHK",
+              "rooms": 2,
+              "category": "Standard",
+              "price": 300000
+            }
+          ]
+        },
+        {
+          "floorNumber": 3,
+          "category": "Standard",
+          "layouts": [
+            {
+              "id": "t3-301",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t3-301",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t3-301",
+              "area": "108 sqm",
+              "unitType": "2BHK",
+              "rooms": 3,
+              "category": "Standard",
+              "price": 200000
+            },
+            {
+              "id": "t3-302",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t3-302",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t3-302",
+              "area": "113 sqm",
+              "unitType": "3BHK",
+              "rooms": 4,
+              "category": "Standard",
+              "price": 240000
+            },
+            {
+              "id": "t3-303",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t3-303",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t3-303",
+              "area": "118 sqm",
+              "unitType": "1BHK",
+              "rooms": 2,
+              "category": "Standard",
+              "price": 300000
+            }
+          ]
+        },
+        {
+          "floorNumber": 4,
+          "category": "Standard",
+          "layouts": [
+            {
+              "id": "t4-401",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t4-401",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t4-401",
+              "area": "109 sqm",
+              "unitType": "2BHK",
+              "rooms": 3,
+              "category": "Standard",
+              "price": 200000
+            },
+            {
+              "id": "t4-402",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t4-402",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t4-402",
+              "area": "114 sqm",
+              "unitType": "3BHK",
+              "rooms": 4,
+              "category": "Standard",
+              "price": 240000
+            },
+            {
+              "id": "t4-403",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t4-403",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t4-403",
+              "area": "119 sqm",
+              "unitType": "1BHK",
+              "rooms": 2,
+              "category": "Standard",
+              "price": 300000
+            }
+          ]
+        },
+        {
+          "floorNumber": 5,
+          "category": "Premium",
+          "layouts": [
+            {
+              "id": "t5-501",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t5-501",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t5-501",
+              "area": "110 sqm",
+              "unitType": "2BHK",
+              "rooms": 3,
+              "category": "Premium",
+              "price": 350000
+            },
+            {
+              "id": "t5-502",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t5-502",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t5-502",
+              "area": "115 sqm",
+              "unitType": "3BHK",
+              "rooms": 4,
+              "category": "Premium",
+              "price": 420000
+            },
+            {
+              "id": "t5-503",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t5-503",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t5-503",
+              "area": "120 sqm",
+              "unitType": "1BHK",
+              "rooms": 2,
+              "category": "Premium",
+              "price": 525000
+            }
+          ]
+        },
+        {
+          "floorNumber": 6,
+          "category": "Premium",
+          "layouts": [
+            {
+              "id": "t6-601",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t6-601",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t6-601",
+              "area": "111 sqm",
+              "unitType": "2BHK",
+              "rooms": 3,
+              "category": "Premium",
+              "price": 350000
+            },
+            {
+              "id": "t6-602",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t6-602",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t6-602",
+              "area": "116 sqm",
+              "unitType": "3BHK",
+              "rooms": 4,
+              "category": "Premium",
+              "price": 420000
+            },
+            {
+              "id": "t6-603",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t6-603",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t6-603",
+              "area": "121 sqm",
+              "unitType": "1BHK",
+              "rooms": 2,
+              "category": "Premium",
+              "price": 525000
+            }
+          ]
+        },
+        {
+          "floorNumber": 7,
+          "category": "Premium",
+          "layouts": [
+            {
+              "id": "t7-701",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t7-701",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t7-701",
+              "area": "112 sqm",
+              "unitType": "2BHK",
+              "rooms": 3,
+              "category": "Premium",
+              "price": 350000
+            },
+            {
+              "id": "t7-702",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t7-702",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t7-702",
+              "area": "117 sqm",
+              "unitType": "3BHK",
+              "rooms": 4,
+              "category": "Premium",
+              "price": 420000
+            },
+            {
+              "id": "t7-703",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t7-703",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t7-703",
+              "area": "122 sqm",
+              "unitType": "1BHK",
+              "rooms": 2,
+              "category": "Premium",
+              "price": 525000
+            }
+          ]
+        },
+        {
+          "floorNumber": 8,
+          "category": "Executive",
+          "layouts": [
+            {
+              "id": "t8-801",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t8-801",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t8-801",
+              "area": "113 sqm",
+              "unitType": "2BHK",
+              "rooms": 3,
+              "category": "Executive",
+              "price": 500000
+            },
+            {
+              "id": "t8-802",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t8-802",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t8-802",
+              "area": "118 sqm",
+              "unitType": "3BHK",
+              "rooms": 4,
+              "category": "Executive",
+              "price": 600000
+            },
+            {
+              "id": "t8-803",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t8-803",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t8-803",
+              "area": "123 sqm",
+              "unitType": "1BHK",
+              "rooms": 2,
+              "category": "Executive",
+              "price": 750000
+            }
+          ]
+        },
+        {
+          "floorNumber": 9,
+          "category": "Executive",
+          "layouts": [
+            {
+              "id": "t9-901",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t9-901",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t9-901",
+              "area": "114 sqm",
+              "unitType": "2BHK",
+              "rooms": 3,
+              "category": "Executive",
+              "price": 500000
+            },
+            {
+              "id": "t9-902",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t9-902",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t9-902",
+              "area": "119 sqm",
+              "unitType": "3BHK",
+              "rooms": 4,
+              "category": "Executive",
+              "price": 600000
+            },
+            {
+              "id": "t9-903",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t9-903",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t9-903",
+              "area": "124 sqm",
+              "unitType": "1BHK",
+              "rooms": 2,
+              "category": "Executive",
+              "price": 750000
+            }
+          ]
+        },
+        {
+          "floorNumber": 10,
+          "category": "Executive",
+          "layouts": [
+            {
+              "id": "t10-1001",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t10-1001",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t10-1001",
+              "area": "115 sqm",
+              "unitType": "2BHK",
+              "rooms": 3,
+              "category": "Executive",
+              "price": 500000
+            },
+            {
+              "id": "t10-1002",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t10-1002",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t10-1002",
+              "area": "120 sqm",
+              "unitType": "3BHK",
+              "rooms": 4,
+              "category": "Executive",
+              "price": 600000
+            },
+            {
+              "id": "t10-1003",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t10-1003",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t10-1003",
+              "area": "125 sqm",
+              "unitType": "1BHK",
+              "rooms": 2,
+              "category": "Executive",
+              "price": 750000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tower-b",
+      "name": "Tower B",
+      "image": "../images/tower2_SummitSuites.jpg",
+      "floors": [
+        {
+          "floorNumber": 1,
+          "category": "Standard",
+          "layouts": [
+            {
+              "id": "t1-101",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t1-101",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t1-101",
+              "area": "106 sqm",
+              "unitType": "2BHK",
+              "rooms": 3,
+              "category": "Standard",
+              "price": 200000
+            },
+            {
+              "id": "t1-102",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t1-102",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t1-102",
+              "area": "111 sqm",
+              "unitType": "3BHK",
+              "rooms": 4,
+              "category": "Standard",
+              "price": 240000
+            },
+            {
+              "id": "t1-103",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t1-103",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t1-103",
+              "area": "116 sqm",
+              "unitType": "1BHK",
+              "rooms": 2,
+              "category": "Standard",
+              "price": 300000
+            }
+          ]
+        },
+        {
+          "floorNumber": 2,
+          "category": "Standard",
+          "layouts": [
+            {
+              "id": "t2-201",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t2-201",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t2-201",
+              "area": "107 sqm",
+              "unitType": "2BHK",
+              "rooms": 3,
+              "category": "Standard",
+              "price": 200000
+            },
+            {
+              "id": "t2-202",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t2-202",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t2-202",
+              "area": "112 sqm",
+              "unitType": "3BHK",
+              "rooms": 4,
+              "category": "Standard",
+              "price": 240000
+            },
+            {
+              "id": "t2-203",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t2-203",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t2-203",
+              "area": "117 sqm",
+              "unitType": "1BHK",
+              "rooms": 2,
+              "category": "Standard",
+              "price": 300000
+            }
+          ]
+        },
+        {
+          "floorNumber": 3,
+          "category": "Standard",
+          "layouts": [
+            {
+              "id": "t3-301",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t3-301",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t3-301",
+              "area": "108 sqm",
+              "unitType": "2BHK",
+              "rooms": 3,
+              "category": "Standard",
+              "price": 200000
+            },
+            {
+              "id": "t3-302",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t3-302",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t3-302",
+              "area": "113 sqm",
+              "unitType": "3BHK",
+              "rooms": 4,
+              "category": "Standard",
+              "price": 240000
+            },
+            {
+              "id": "t3-303",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t3-303",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t3-303",
+              "area": "118 sqm",
+              "unitType": "1BHK",
+              "rooms": 2,
+              "category": "Standard",
+              "price": 300000
+            }
+          ]
+        },
+        {
+          "floorNumber": 4,
+          "category": "Standard",
+          "layouts": [
+            {
+              "id": "t4-401",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t4-401",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t4-401",
+              "area": "109 sqm",
+              "unitType": "2BHK",
+              "rooms": 3,
+              "category": "Standard",
+              "price": 200000
+            },
+            {
+              "id": "t4-402",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t4-402",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t4-402",
+              "area": "114 sqm",
+              "unitType": "3BHK",
+              "rooms": 4,
+              "category": "Standard",
+              "price": 240000
+            },
+            {
+              "id": "t4-403",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t4-403",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t4-403",
+              "area": "119 sqm",
+              "unitType": "1BHK",
+              "rooms": 2,
+              "category": "Standard",
+              "price": 300000
+            }
+          ]
+        },
+        {
+          "floorNumber": 5,
+          "category": "Premium",
+          "layouts": [
+            {
+              "id": "t5-501",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t5-501",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t5-501",
+              "area": "110 sqm",
+              "unitType": "2BHK",
+              "rooms": 3,
+              "category": "Premium",
+              "price": 350000
+            },
+            {
+              "id": "t5-502",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t5-502",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t5-502",
+              "area": "115 sqm",
+              "unitType": "3BHK",
+              "rooms": 4,
+              "category": "Premium",
+              "price": 420000
+            },
+            {
+              "id": "t5-503",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t5-503",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t5-503",
+              "area": "120 sqm",
+              "unitType": "1BHK",
+              "rooms": 2,
+              "category": "Premium",
+              "price": 525000
+            }
+          ]
+        },
+        {
+          "floorNumber": 6,
+          "category": "Premium",
+          "layouts": [
+            {
+              "id": "t6-601",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t6-601",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t6-601",
+              "area": "111 sqm",
+              "unitType": "2BHK",
+              "rooms": 3,
+              "category": "Premium",
+              "price": 350000
+            },
+            {
+              "id": "t6-602",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t6-602",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t6-602",
+              "area": "116 sqm",
+              "unitType": "3BHK",
+              "rooms": 4,
+              "category": "Premium",
+              "price": 420000
+            },
+            {
+              "id": "t6-603",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t6-603",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t6-603",
+              "area": "121 sqm",
+              "unitType": "1BHK",
+              "rooms": 2,
+              "category": "Premium",
+              "price": 525000
+            }
+          ]
+        },
+        {
+          "floorNumber": 7,
+          "category": "Premium",
+          "layouts": [
+            {
+              "id": "t7-701",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t7-701",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t7-701",
+              "area": "112 sqm",
+              "unitType": "2BHK",
+              "rooms": 3,
+              "category": "Premium",
+              "price": 350000
+            },
+            {
+              "id": "t7-702",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t7-702",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t7-702",
+              "area": "117 sqm",
+              "unitType": "3BHK",
+              "rooms": 4,
+              "category": "Premium",
+              "price": 420000
+            },
+            {
+              "id": "t7-703",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t7-703",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t7-703",
+              "area": "122 sqm",
+              "unitType": "1BHK",
+              "rooms": 2,
+              "category": "Premium",
+              "price": 525000
+            }
+          ]
+        },
+        {
+          "floorNumber": 8,
+          "category": "Executive",
+          "layouts": [
+            {
+              "id": "t8-801",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t8-801",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t8-801",
+              "area": "113 sqm",
+              "unitType": "2BHK",
+              "rooms": 3,
+              "category": "Executive",
+              "price": 500000
+            },
+            {
+              "id": "t8-802",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t8-802",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t8-802",
+              "area": "118 sqm",
+              "unitType": "3BHK",
+              "rooms": 4,
+              "category": "Executive",
+              "price": 600000
+            },
+            {
+              "id": "t8-803",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t8-803",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t8-803",
+              "area": "123 sqm",
+              "unitType": "1BHK",
+              "rooms": 2,
+              "category": "Executive",
+              "price": 750000
+            }
+          ]
+        },
+        {
+          "floorNumber": 9,
+          "category": "Executive",
+          "layouts": [
+            {
+              "id": "t9-901",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t9-901",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t9-901",
+              "area": "114 sqm",
+              "unitType": "2BHK",
+              "rooms": 3,
+              "category": "Executive",
+              "price": 500000
+            },
+            {
+              "id": "t9-902",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t9-902",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t9-902",
+              "area": "119 sqm",
+              "unitType": "3BHK",
+              "rooms": 4,
+              "category": "Executive",
+              "price": 600000
+            },
+            {
+              "id": "t9-903",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t9-903",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t9-903",
+              "area": "124 sqm",
+              "unitType": "1BHK",
+              "rooms": 2,
+              "category": "Executive",
+              "price": 750000
+            }
+          ]
+        },
+        {
+          "floorNumber": 10,
+          "category": "Executive",
+          "layouts": [
+            {
+              "id": "t10-1001",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t10-1001",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t10-1001",
+              "area": "115 sqm",
+              "unitType": "2BHK",
+              "rooms": 3,
+              "category": "Executive",
+              "price": 500000
+            },
+            {
+              "id": "t10-1002",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t10-1002",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t10-1002",
+              "area": "120 sqm",
+              "unitType": "3BHK",
+              "rooms": 4,
+              "category": "Executive",
+              "price": 600000
+            },
+            {
+              "id": "t10-1003",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t10-1003",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t10-1003",
+              "area": "125 sqm",
+              "unitType": "1BHK",
+              "rooms": 2,
+              "category": "Executive",
+              "price": 750000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tower-c",
+      "name": "Tower C",
+      "image": "../images/tower3_Luxevista.jpg",
+      "floors": [
+        {
+          "floorNumber": 1,
+          "category": "Standard",
+          "layouts": [
+            {
+              "id": "t1-101",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t1-101",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t1-101",
+              "area": "106 sqm",
+              "unitType": "2BHK",
+              "rooms": 3,
+              "category": "Standard",
+              "price": 200000
+            },
+            {
+              "id": "t1-102",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t1-102",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t1-102",
+              "area": "111 sqm",
+              "unitType": "3BHK",
+              "rooms": 4,
+              "category": "Standard",
+              "price": 240000
+            },
+            {
+              "id": "t1-103",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t1-103",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t1-103",
+              "area": "116 sqm",
+              "unitType": "1BHK",
+              "rooms": 2,
+              "category": "Standard",
+              "price": 300000
+            }
+          ]
+        },
+        {
+          "floorNumber": 2,
+          "category": "Standard",
+          "layouts": [
+            {
+              "id": "t2-201",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t2-201",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t2-201",
+              "area": "107 sqm",
+              "unitType": "2BHK",
+              "rooms": 3,
+              "category": "Standard",
+              "price": 200000
+            },
+            {
+              "id": "t2-202",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t2-202",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t2-202",
+              "area": "112 sqm",
+              "unitType": "3BHK",
+              "rooms": 4,
+              "category": "Standard",
+              "price": 240000
+            },
+            {
+              "id": "t2-203",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t2-203",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t2-203",
+              "area": "117 sqm",
+              "unitType": "1BHK",
+              "rooms": 2,
+              "category": "Standard",
+              "price": 300000
+            }
+          ]
+        },
+        {
+          "floorNumber": 3,
+          "category": "Standard",
+          "layouts": [
+            {
+              "id": "t3-301",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t3-301",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t3-301",
+              "area": "108 sqm",
+              "unitType": "2BHK",
+              "rooms": 3,
+              "category": "Standard",
+              "price": 200000
+            },
+            {
+              "id": "t3-302",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t3-302",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t3-302",
+              "area": "113 sqm",
+              "unitType": "3BHK",
+              "rooms": 4,
+              "category": "Standard",
+              "price": 240000
+            },
+            {
+              "id": "t3-303",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t3-303",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t3-303",
+              "area": "118 sqm",
+              "unitType": "1BHK",
+              "rooms": 2,
+              "category": "Standard",
+              "price": 300000
+            }
+          ]
+        },
+        {
+          "floorNumber": 4,
+          "category": "Standard",
+          "layouts": [
+            {
+              "id": "t4-401",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t4-401",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t4-401",
+              "area": "109 sqm",
+              "unitType": "2BHK",
+              "rooms": 3,
+              "category": "Standard",
+              "price": 200000
+            },
+            {
+              "id": "t4-402",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t4-402",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t4-402",
+              "area": "114 sqm",
+              "unitType": "3BHK",
+              "rooms": 4,
+              "category": "Standard",
+              "price": 240000
+            },
+            {
+              "id": "t4-403",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t4-403",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t4-403",
+              "area": "119 sqm",
+              "unitType": "1BHK",
+              "rooms": 2,
+              "category": "Standard",
+              "price": 300000
+            }
+          ]
+        },
+        {
+          "floorNumber": 5,
+          "category": "Premium",
+          "layouts": [
+            {
+              "id": "t5-501",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t5-501",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t5-501",
+              "area": "110 sqm",
+              "unitType": "2BHK",
+              "rooms": 3,
+              "category": "Premium",
+              "price": 350000
+            },
+            {
+              "id": "t5-502",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t5-502",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t5-502",
+              "area": "115 sqm",
+              "unitType": "3BHK",
+              "rooms": 4,
+              "category": "Premium",
+              "price": 420000
+            },
+            {
+              "id": "t5-503",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t5-503",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t5-503",
+              "area": "120 sqm",
+              "unitType": "1BHK",
+              "rooms": 2,
+              "category": "Premium",
+              "price": 525000
+            }
+          ]
+        },
+        {
+          "floorNumber": 6,
+          "category": "Premium",
+          "layouts": [
+            {
+              "id": "t6-601",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t6-601",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t6-601",
+              "area": "111 sqm",
+              "unitType": "2BHK",
+              "rooms": 3,
+              "category": "Premium",
+              "price": 350000
+            },
+            {
+              "id": "t6-602",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t6-602",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t6-602",
+              "area": "116 sqm",
+              "unitType": "3BHK",
+              "rooms": 4,
+              "category": "Premium",
+              "price": 420000
+            },
+            {
+              "id": "t6-603",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t6-603",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t6-603",
+              "area": "121 sqm",
+              "unitType": "1BHK",
+              "rooms": 2,
+              "category": "Premium",
+              "price": 525000
+            }
+          ]
+        },
+        {
+          "floorNumber": 7,
+          "category": "Premium",
+          "layouts": [
+            {
+              "id": "t7-701",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t7-701",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t7-701",
+              "area": "112 sqm",
+              "unitType": "2BHK",
+              "rooms": 3,
+              "category": "Premium",
+              "price": 350000
+            },
+            {
+              "id": "t7-702",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t7-702",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t7-702",
+              "area": "117 sqm",
+              "unitType": "3BHK",
+              "rooms": 4,
+              "category": "Premium",
+              "price": 420000
+            },
+            {
+              "id": "t7-703",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t7-703",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t7-703",
+              "area": "122 sqm",
+              "unitType": "1BHK",
+              "rooms": 2,
+              "category": "Premium",
+              "price": 525000
+            }
+          ]
+        },
+        {
+          "floorNumber": 8,
+          "category": "Executive",
+          "layouts": [
+            {
+              "id": "t8-801",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t8-801",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t8-801",
+              "area": "113 sqm",
+              "unitType": "2BHK",
+              "rooms": 3,
+              "category": "Executive",
+              "price": 500000
+            },
+            {
+              "id": "t8-802",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t8-802",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t8-802",
+              "area": "118 sqm",
+              "unitType": "3BHK",
+              "rooms": 4,
+              "category": "Executive",
+              "price": 600000
+            },
+            {
+              "id": "t8-803",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t8-803",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t8-803",
+              "area": "123 sqm",
+              "unitType": "1BHK",
+              "rooms": 2,
+              "category": "Executive",
+              "price": 750000
+            }
+          ]
+        },
+        {
+          "floorNumber": 9,
+          "category": "Executive",
+          "layouts": [
+            {
+              "id": "t9-901",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t9-901",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t9-901",
+              "area": "114 sqm",
+              "unitType": "2BHK",
+              "rooms": 3,
+              "category": "Executive",
+              "price": 500000
+            },
+            {
+              "id": "t9-902",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t9-902",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t9-902",
+              "area": "119 sqm",
+              "unitType": "3BHK",
+              "rooms": 4,
+              "category": "Executive",
+              "price": 600000
+            },
+            {
+              "id": "t9-903",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t9-903",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t9-903",
+              "area": "124 sqm",
+              "unitType": "1BHK",
+              "rooms": 2,
+              "category": "Executive",
+              "price": 750000
+            }
+          ]
+        },
+        {
+          "floorNumber": 10,
+          "category": "Executive",
+          "layouts": [
+            {
+              "id": "t10-1001",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t10-1001",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t10-1001",
+              "area": "115 sqm",
+              "unitType": "2BHK",
+              "rooms": 3,
+              "category": "Executive",
+              "price": 500000
+            },
+            {
+              "id": "t10-1002",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t10-1002",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t10-1002",
+              "area": "120 sqm",
+              "unitType": "3BHK",
+              "rooms": 4,
+              "category": "Executive",
+              "price": 600000
+            },
+            {
+              "id": "t10-1003",
+              "thumbnail": "https://via.placeholder.com/150?text=Layout+t10-1003",
+              "image": "https://via.placeholder.com/600x400?text=Layout+t10-1003",
+              "area": "125 sqm",
+              "unitType": "1BHK",
+              "rooms": 2,
+              "category": "Executive",
+              "price": 750000
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
