@@ -53,47 +53,16 @@ const Units = () => {
           {selectedUnit.id || selectedUnit.name}
         </h1>
         {/* Image Grid */}
-        <div className="grid grid-cols-4 grid-rows-2 gap-2 h-72 mb-8">
+        <div className="h-72 mb-8">
           <img
             src={
-              selectedUnit.image ||
-              "https://via.placeholder.com/600x400?text=Unit+Image"
+              
+              "https://img.freepik.com/free-photo/modern-minimalist-living-dining-space-with-natural-light_23-2151983233.jpg?uid=R27017460&ga=GA1.1.1750306668.1745505589&semt=ais_hybrid&w=740"
             }
             alt="main"
-            className="row-span-2 col-span-2 w-full h-full object-cover rounded-l-xl"
+            className="row-span-2 col-span-2 w-full h-full object-cover rounded-2xl"
           />
-          <img
-            src={
-              selectedUnit.thumbnail ||
-              "https://via.placeholder.com/150?text=Unit+Thumb"
-            }
-            alt="img1"
-            className="col-span-1 w-full h-full object-cover rounded-tr-xl"
-          />
-          <img
-            src={
-              selectedUnit.thumbnail ||
-              "https://via.placeholder.com/150?text=Unit+Thumb"
-            }
-            alt="img2"
-            className="col-span-1 w-full h-full object-cover rounded-t-xl"
-          />
-          <img
-            src={
-              selectedUnit.thumbnail ||
-              "https://via.placeholder.com/150?text=Unit+Thumb"
-            }
-            alt="img3"
-            className="col-span-1 w-full h-full object-cover rounded-br-xl"
-          />
-          <img
-            src={
-              selectedUnit.thumbnail ||
-              "https://via.placeholder.com/150?text=Unit+Thumb"
-            }
-            alt="img4"
-            className="col-span-1 w-full h-full object-cover rounded-b-xl"
-          />
+          
         </div>
         {/* Main Content */}
         <div className="flex flex-col md:flex-row gap-8">
