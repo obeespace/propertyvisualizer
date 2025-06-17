@@ -13,9 +13,6 @@ const UnitCard = ({ unit, onClick }) => {
       <div className="absolute inset-0 z-10 pointer-events-none rounded-xl transition-all duration-300 group-hover:bg-black group-hover:bg-opacity-50" />
       {/* Image Placeholder */}
       <div className="relative bg-gray-200 flex items-center justify-center h-56 transition-all duration-300">
-        <svg className="w-16 h-16 text-gray-400 z-20" fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24">
-          <path strokeLinecap="round" strokeLinejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V7M3 7l9 6 9-6M3 7l9 6 9-6" />
-        </svg>
         {unit.available === false && (
           <span className="absolute top-6 left-1/2 -translate-x-1/2 bg-red-400 text-white px-4 py-1 rounded-full text-sm font-semibold z-30">Not Available</span>
         )}
